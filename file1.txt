@@ -1,4 +1,8 @@
 Text added in subbranch
 
-Bence uj sora és kiegeszitett
+<<<<<<< HEAD
+
+=======
+Andras wants to write here!!!!
+>>>>>>> 82a64921a56df44d6ac50763b638537ab1043b8c
 
